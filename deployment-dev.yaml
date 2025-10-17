@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: mediplux
-        image: 514246414247.dkr.ecr.us-east-1.amazonaws.com/mediplux-dev:latest
+        image: 514246414247.dkr.ecr.us-east-1.amazonaws.com/mediplux-dev:4
         ports:
         - containerPort: 80
